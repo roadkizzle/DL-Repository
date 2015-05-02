@@ -1,0 +1,1925 @@
+<?xml version="1.0" encoding="UTF-8" standalone="true"?>
+
+-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" name="Covenant of Antarctica" battleScribeVersion="1.15" gameSystemRevision="13" gameSystemId="47423c1e-c024-1db7-9b5b-1ce40903e208" revision="2" id="2dab1734-004e-2bd9-a14a-eeb8b9b89657">
+
+
+-<entries>
+
+
+-<entry name="Automata Section" id="e7c427c1-ac47-5aa0-8316-729bfc55b058" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="-1" minSelections="0" type="unit" categoryId="c3ad262a-edcb-13c7-0883-bbea6d8cd67e" points="0.0">
+
+
+-<entries>
+
+
+-<entry name="Automata" id="2cf43e0d-280c-f1b0-a4db-d86ffaac2842" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="10" minSelections="6" type="unit" categoryId="(No Category)" points="25.0">
+
+
+-<entries>
+
+
+-<entry name="Altair Energy Rifle" id="2abac1b0-31b1-5cc7-737d-558d34d2df9d" page="0" hidden="false" collective="true" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Altair Energy Rifle" id="6f5655c1-bd26-9007-e7df-ff0eff2b35ee" page="0" hidden="false" profileTypeId="8789d001-6582-70fc-f96b-07ace9afe782">
+
+
+-<characteristics>
+
+<characteristic name="ER" value="1-24"" characteristicId="ba19b0b0-08c0-7343-876e-b48f7f92e0c6"/>
+
+<characteristic name="LR" value="-" characteristicId="aecb3e00-ed71-cac7-04f4-73a0f8825554"/>
+
+<characteristic name="ER RAD" value="2 BLUE" characteristicId="bd3cb9ee-6552-22a9-8903-6a1eed8895ac"/>
+
+<characteristic name="LR RAD" value="-" characteristicId="2b559c2a-3648-5fe4-f27b-93f86a98ce74"/>
+
+<characteristic name="ER IAD" value="1 BLUE" characteristicId="3886c2a8-617a-7eb8-6317-9672c2afc09d"/>
+
+<characteristic name="LR IAD" value="-" characteristicId="d9fa8499-5035-f1d8-1356-d263560c8a7c"/>
+
+<characteristic name="WARs" value="Energy Weapon, Small Arm" characteristicId="237aa327-44c6-68b0-359b-bac0a6eb2673"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Automata" id="ad5621b3-7f72-ec92-10ea-344c437764d5" page="0" hidden="false" profileTypeId="e768e3db-80af-3cea-995e-437c9f8e317b">
+
+
+-<characteristics>
+
+<characteristic name="Type" value="Infantry" characteristicId="31feeca1-3b0d-30fa-a65f-c8e60f6860fa"/>
+
+<characteristic name="Mv" value="5"" characteristicId="2bac851c-6484-a3cb-e0c1-c19b2542fab6"/>
+
+<characteristic name="IR" value="4" characteristicId="3eb329ae-ccae-6674-af6b-d0a9316663c5"/>
+
+<characteristic name="LP" value="1" characteristicId="36a9abaa-8071-3b72-1a62-e7052c2f11bd"/>
+
+<characteristic name="MAD" value="1 BLACK" characteristicId="0321ef1d-9ff7-e3fd-57e7-cb1a6ad7ca72"/>
+
+<characteristic name="MARs" value="Drone" characteristicId="a0693fde-b42f-0609-397b-074ee2ae9f9c"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+
+-<entry name="Drone Controller" id="39cce6a9-305f-b067-e55f-4f5bf3d18a33" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="0" type="unit" categoryId="(No Category)" points="50.0">
+
+
+-<entries>
+
+
+-<entry name="Sirius Energy Pistol" id="f4f4d9cb-da07-b4fd-9dba-421fa08401dc" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Sirius Energy Pistol" id="852c9e68-a7db-e6dc-dce0-8defbe3475c0" page="0" hidden="false" profileTypeId="8789d001-6582-70fc-f96b-07ace9afe782">
+
+
+-<characteristics>
+
+<characteristic name="ER" value="0-8"" characteristicId="ba19b0b0-08c0-7343-876e-b48f7f92e0c6"/>
+
+<characteristic name="LR" value="-" characteristicId="aecb3e00-ed71-cac7-04f4-73a0f8825554"/>
+
+<characteristic name="ER RAD" value="3 BLUE" characteristicId="bd3cb9ee-6552-22a9-8903-6a1eed8895ac"/>
+
+<characteristic name="LR RAD" value="-" characteristicId="2b559c2a-3648-5fe4-f27b-93f86a98ce74"/>
+
+<characteristic name="ER IAD" value="1 BLUE" characteristicId="3886c2a8-617a-7eb8-6317-9672c2afc09d"/>
+
+<characteristic name="LR IAD" value="-" characteristicId="d9fa8499-5035-f1d8-1356-d263560c8a7c"/>
+
+<characteristic name="WARs" value="CQB Weapon, Energy Weapon, Small Arm" characteristicId="237aa327-44c6-68b0-359b-bac0a6eb2673"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Drone Controller" id="d782c111-b31e-2829-16bc-ce0947917ec6" page="0" hidden="false" profileTypeId="e768e3db-80af-3cea-995e-437c9f8e317b">
+
+
+-<characteristics>
+
+<characteristic name="Type" value="Infantry" characteristicId="31feeca1-3b0d-30fa-a65f-c8e60f6860fa"/>
+
+<characteristic name="Mv" value="7"" characteristicId="2bac851c-6484-a3cb-e0c1-c19b2542fab6"/>
+
+<characteristic name="IR" value="4" characteristicId="3eb329ae-ccae-6674-af6b-d0a9316663c5"/>
+
+<characteristic name="LP" value="2" characteristicId="36a9abaa-8071-3b72-1a62-e7052c2f11bd"/>
+
+<characteristic name="MAD" value="3 BLUE" characteristicId="0321ef1d-9ff7-e3fd-57e7-cb1a6ad7ca72"/>
+
+<characteristic name="MARs" value="Drone Controller, Steadfast" characteristicId="a0693fde-b42f-0609-397b-074ee2ae9f9c"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+
+-<entry name="Monique Dubois" id="73181c39-2c88-129c-10c7-59e17a59ca93" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="1" minInForce="0" maxSelections="1" minSelections="0" type="upgrade" categoryId="(No Category)" points="60.0">
+
+
+-<entries>
+
+
+-<entry name="Sirius Energy Pistol" id="02306aae-9693-ead3-b6a0-e0a94c53cdad" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Sirius Energy Pistol" id="aeecffd2-a0f0-1c81-3f79-f12de83a2038" page="0" hidden="false" profileTypeId="8789d001-6582-70fc-f96b-07ace9afe782">
+
+
+-<characteristics>
+
+<characteristic name="ER" value="0-8"" characteristicId="ba19b0b0-08c0-7343-876e-b48f7f92e0c6"/>
+
+<characteristic name="LR" value="-" characteristicId="aecb3e00-ed71-cac7-04f4-73a0f8825554"/>
+
+<characteristic name="ER RAD" value="3 BLUE" characteristicId="bd3cb9ee-6552-22a9-8903-6a1eed8895ac"/>
+
+<characteristic name="LR RAD" value="-" characteristicId="2b559c2a-3648-5fe4-f27b-93f86a98ce74"/>
+
+<characteristic name="ER IAD" value="1 BLUE" characteristicId="3886c2a8-617a-7eb8-6317-9672c2afc09d"/>
+
+<characteristic name="LR IAD" value="-" characteristicId="d9fa8499-5035-f1d8-1356-d263560c8a7c"/>
+
+<characteristic name="WARs" value="CQB Weapon, Energy Weapon, Small Arm" characteristicId="237aa327-44c6-68b0-359b-bac0a6eb2673"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Monique Dubois" id="505be9c1-a4ad-806f-a4a3-c37874bd922c" hidden="false" profileTypeId="e768e3db-80af-3cea-995e-437c9f8e317b">
+
+
+-<characteristics>
+
+<characteristic name="Type" value="Infantry" characteristicId="31feeca1-3b0d-30fa-a65f-c8e60f6860fa"/>
+
+<characteristic name="Mv" value="6"" characteristicId="2bac851c-6484-a3cb-e0c1-c19b2542fab6"/>
+
+<characteristic name="IR" value="4" characteristicId="3eb329ae-ccae-6674-af6b-d0a9316663c5"/>
+
+<characteristic name="LP" value="2" characteristicId="36a9abaa-8071-3b72-1a62-e7052c2f11bd"/>
+
+<characteristic name="MAD" value="2 BLACK" characteristicId="0321ef1d-9ff7-e3fd-57e7-cb1a6ad7ca72"/>
+
+<characteristic name="MARs" value="Drone Controller, Drone Engineer(4+), Steadfast" characteristicId="a0693fde-b42f-0609-397b-074ee2ae9f9c"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+
+-<modifiers>
+
+
+-<modifier type="set" value="0.0" incrementValue="1.0" incrementField="selections" incrementChildId="no child" incrementParentId="roster" numRepeats="1" repeat="false" field="maxInForce">
+
+
+-<conditions>
+
+<condition type="equal to" value="0.0" field="selections" childId="af11304a-5b2a-e196-b558-f4f2dd39dab4" parentId="roster"/>
+
+</conditions>
+
+<conditionGroups/>
+
+</modifier>
+
+</modifiers>
+
+<rules/>
+
+<profiles/>
+
+<links/>
+
+</entry>
+
+
+-<entry name="Commando Section" id="af11304a-5b2a-e196-b558-f4f2dd39dab4" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="-1" minSelections="0" type="unit" categoryId="c3ad262a-edcb-13c7-0883-bbea6d8cd67e" points="0.0">
+
+
+-<entries>
+
+
+-<entry name="Commando" id="6c28ef3c-bf2b-d07d-abfc-48755beec130" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="6" minSelections="4" type="unit" categoryId="(No Category)" points="40.0">
+
+
+-<entries>
+
+
+-<entry name="Vulkan Carbine" id="3d4d74b7-9b49-ce65-acd9-ee4911375f85" page="0" hidden="false" collective="true" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+<profiles/>
+
+
+-<links>
+
+
+-<link id="c29d7f71-6340-3abc-51ee-b3d4b3323c24" linkType="profile" targetId="4788ede4-b01e-3683-f204-05ec4fc3c0ad">
+
+<modifiers/>
+
+</link>
+
+</links>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+
+-<modifiers>
+
+
+-<modifier type="decrement" value="1.0" incrementValue="1.0" incrementField="selections" incrementChildId="47099f16-ea96-0401-c16c-43e105989fe1" incrementParentId="af11304a-5b2a-e196-b558-f4f2dd39dab4" numRepeats="1" repeat="true" field="minSelections">
+
+<conditions/>
+
+<conditionGroups/>
+
+</modifier>
+
+
+-<modifier type="decrement" value="1.0" incrementValue="1.0" incrementField="selections" incrementChildId="47099f16-ea96-0401-c16c-43e105989fe1" incrementParentId="af11304a-5b2a-e196-b558-f4f2dd39dab4" numRepeats="1" repeat="true" field="maxSelections">
+
+<conditions/>
+
+<conditionGroups/>
+
+</modifier>
+
+
+-<modifier type="decrement" value="1.0" incrementValue="1.0" incrementField="selections" incrementChildId="48e98f69-0d27-a419-3d96-b9606d984484" incrementParentId="af11304a-5b2a-e196-b558-f4f2dd39dab4" numRepeats="1" repeat="true" field="minSelections">
+
+<conditions/>
+
+<conditionGroups/>
+
+</modifier>
+
+
+-<modifier type="decrement" value="1.0" incrementValue="1.0" incrementField="selections" incrementChildId="48e98f69-0d27-a419-3d96-b9606d984484" incrementParentId="af11304a-5b2a-e196-b558-f4f2dd39dab4" numRepeats="1" repeat="true" field="maxSelections">
+
+<conditions/>
+
+<conditionGroups/>
+
+</modifier>
+
+
+-<modifier type="increment" value="10.0" incrementValue="1.0" incrementField="selections" incrementChildId="69d17172-550f-e6e1-c2e8-d93a1499855a" incrementParentId="af11304a-5b2a-e196-b558-f4f2dd39dab4" numRepeats="1" repeat="true" field="points">
+
+<conditions/>
+
+<conditionGroups/>
+
+</modifier>
+
+</modifiers>
+
+<rules/>
+
+<profiles/>
+
+
+-<links>
+
+
+-<link id="22d7ade6-a0d0-5c0f-af83-95bc86ce274d" linkType="profile" targetId="3ae9ab4a-0754-0e84-f88c-df508899e99a">
+
+<modifiers/>
+
+</link>
+
+</links>
+
+</entry>
+
+
+-<entry name="Commando Specialist" id="48e98f69-0d27-a419-3d96-b9606d984484" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="0" type="unit" categoryId="(No Category)" points="45.0">
+
+
+-<entries>
+
+
+-<entry name="Proxima Energy Blaster" id="3fa4f76e-4be9-b0ed-eb4a-1bc35972e452" page="0" hidden="false" collective="true" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Proxima Energy Blaster" id="40ec7022-8570-86d1-d527-9d191bd87115" page="0" hidden="false" profileTypeId="8789d001-6582-70fc-f96b-07ace9afe782">
+
+
+-<characteristics>
+
+<characteristic name="ER" value="1-20"" characteristicId="ba19b0b0-08c0-7343-876e-b48f7f92e0c6"/>
+
+<characteristic name="LR" value="-" characteristicId="aecb3e00-ed71-cac7-04f4-73a0f8825554"/>
+
+<characteristic name="ER RAD" value="4 BLUE" characteristicId="bd3cb9ee-6552-22a9-8903-6a1eed8895ac"/>
+
+<characteristic name="LR RAD" value="-" characteristicId="2b559c2a-3648-5fe4-f27b-93f86a98ce74"/>
+
+<characteristic name="ER IAD" value="1 BLUE" characteristicId="3886c2a8-617a-7eb8-6317-9672c2afc09d"/>
+
+<characteristic name="LR IAD" value="-" characteristicId="d9fa8499-5035-f1d8-1356-d263560c8a7c"/>
+
+<characteristic name="WARs" value="Blast, Energy Weapon, Small Arm" characteristicId="237aa327-44c6-68b0-359b-bac0a6eb2673"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+
+-<modifiers>
+
+
+-<modifier type="increment" value="10.0" incrementValue="1.0" incrementField="selections" incrementChildId="69d17172-550f-e6e1-c2e8-d93a1499855a" incrementParentId="af11304a-5b2a-e196-b558-f4f2dd39dab4" numRepeats="1" repeat="true" field="points">
+
+<conditions/>
+
+<conditionGroups/>
+
+</modifier>
+
+</modifiers>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Commando Specialist" id="940554ca-a31c-9f46-3e72-466d4a367135" page="0" hidden="false" profileTypeId="e768e3db-80af-3cea-995e-437c9f8e317b">
+
+
+-<characteristics>
+
+<characteristic name="Type" value="Infantry" characteristicId="31feeca1-3b0d-30fa-a65f-c8e60f6860fa"/>
+
+<characteristic name="Mv" value="7"" characteristicId="2bac851c-6484-a3cb-e0c1-c19b2542fab6"/>
+
+<characteristic name="IR" value="4" characteristicId="3eb329ae-ccae-6674-af6b-d0a9316663c5"/>
+
+<characteristic name="LP" value="1" characteristicId="36a9abaa-8071-3b72-1a62-e7052c2f11bd"/>
+
+<characteristic name="MAD" value="3 BLUE" characteristicId="0321ef1d-9ff7-e3fd-57e7-cb1a6ad7ca72"/>
+
+<characteristic name="MARs" value="Flashbangs, Tank Mines, Steadfast" characteristicId="a0693fde-b42f-0609-397b-074ee2ae9f9c"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+
+-<entry name="Commando Sergeant" id="47099f16-ea96-0401-c16c-43e105989fe1" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="0" type="unit" categoryId="(No Category)" points="45.0">
+
+
+-<entries>
+
+
+-<entry name="Vulkan Carbine" id="0ae01894-b450-97a5-9d16-a5de72e12fa7" page="0" hidden="false" collective="true" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+<profiles/>
+
+
+-<links>
+
+
+-<link id="4db9f1d5-e7c9-c53e-9dfa-404cb4de0c38" linkType="profile" targetId="4788ede4-b01e-3683-f204-05ec4fc3c0ad">
+
+<modifiers/>
+
+</link>
+
+</links>
+
+</entry>
+
+
+-<entry name="Master Sergeant" id="a50eadd2-b9db-bd76-45b7-f809a6fef434" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="0" type="upgrade" categoryId="(No Category)" points="15.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Commando Master Sergeant" id="15188113-2201-c755-9733-039eb4a89bb9" page="0" hidden="false" profileTypeId="e768e3db-80af-3cea-995e-437c9f8e317b">
+
+
+-<characteristics>
+
+<characteristic name="Type" value="Infantry" characteristicId="31feeca1-3b0d-30fa-a65f-c8e60f6860fa"/>
+
+<characteristic name="Mv" value="7"" characteristicId="2bac851c-6484-a3cb-e0c1-c19b2542fab6"/>
+
+<characteristic name="IR" value="5" characteristicId="3eb329ae-ccae-6674-af6b-d0a9316663c5"/>
+
+<characteristic name="LP" value="2" characteristicId="36a9abaa-8071-3b72-1a62-e7052c2f11bd"/>
+
+<characteristic name="MAD" value="4 BLUE" characteristicId="0321ef1d-9ff7-e3fd-57e7-cb1a6ad7ca72"/>
+
+<characteristic name="MARs" value="NCO(2), Flashbangs, Tank Mines, Steadfast" characteristicId="a0693fde-b42f-0609-397b-074ee2ae9f9c"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+
+-<modifiers>
+
+
+-<modifier type="increment" value="10.0" incrementValue="1.0" incrementField="selections" incrementChildId="69d17172-550f-e6e1-c2e8-d93a1499855a" incrementParentId="af11304a-5b2a-e196-b558-f4f2dd39dab4" numRepeats="1" repeat="true" field="points">
+
+<conditions/>
+
+<conditionGroups/>
+
+</modifier>
+
+</modifiers>
+
+
+-<rules>
+
+
+-<rule name="NCO" id="1d43d1ce-4f86-4335-d87f-821b67d32f82" page="0" hidden="false">
+
+<description>A Section containing a model with the NCO MAR may spend Command Points without being within the Command Distance of an Officer, however when doing this ANY Command Point Cost is DOUBLED.</description>
+
+<modifiers/>
+
+</rule>
+
+</rules>
+
+
+-<profiles>
+
+
+-<profile name="Commando Sergeant" id="485763fa-bbec-f867-1a7a-e79ec694d1cc" page="0" hidden="false" profileTypeId="e768e3db-80af-3cea-995e-437c9f8e317b">
+
+
+-<characteristics>
+
+<characteristic name="Type" value="Infantry" characteristicId="31feeca1-3b0d-30fa-a65f-c8e60f6860fa"/>
+
+<characteristic name="Mv" value="7"" characteristicId="2bac851c-6484-a3cb-e0c1-c19b2542fab6"/>
+
+<characteristic name="IR" value="4" characteristicId="3eb329ae-ccae-6674-af6b-d0a9316663c5"/>
+
+<characteristic name="LP" value="2" characteristicId="36a9abaa-8071-3b72-1a62-e7052c2f11bd"/>
+
+<characteristic name="MAD" value="3 BLUE" characteristicId="0321ef1d-9ff7-e3fd-57e7-cb1a6ad7ca72"/>
+
+<characteristic name="MARs" value="NCO(1), Flashbangs, Tank Mines, Steadfast" characteristicId="a0693fde-b42f-0609-397b-074ee2ae9f9c"/>
+
+</characteristics>
+
+
+-<modifiers>
+
+
+-<modifier type="hide" value="0.0" incrementValue="1.0" incrementField="selections" incrementChildId="a50eadd2-b9db-bd76-45b7-f809a6fef434" incrementParentId="47099f16-ea96-0401-c16c-43e105989fe1" numRepeats="1" repeat="true" field="31feeca1-3b0d-30fa-a65f-c8e60f6860fa">
+
+<conditions/>
+
+<conditionGroups/>
+
+</modifier>
+
+</modifiers>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+</entries>
+
+
+-<entryGroups>
+
+
+-<entryGroup name="Experience Level" id="9a3d7636-0409-4e10-3836-cd892ef8425d" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1">
+
+
+-<entries>
+
+
+-<entry name="Veteran" id="69d17172-550f-e6e1-c2e8-d93a1499855a" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="0" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+<profiles/>
+
+<links/>
+
+</entry>
+
+
+-<entry name="Regular" id="e3958d46-3ce0-d989-ccd3-26784f37883c" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="0" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+<profiles/>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+<modifiers/>
+
+<links/>
+
+</entryGroup>
+
+
+-<entryGroup name="Section Type" id="757e6535-33d6-098f-e3de-cc91fbe9ee68" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1">
+
+
+-<entries>
+
+
+-<entry name="Combat" id="1d074d76-fcf3-e1d7-6a23-6e77573d65fd" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+<profiles/>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+<modifiers/>
+
+<links/>
+
+</entryGroup>
+
+</entryGroups>
+
+<modifiers/>
+
+<rules/>
+
+<profiles/>
+
+<links/>
+
+</entry>
+
+
+-<entry name="Drone Support Section" id="a39d63b0-5d6f-955d-c1cd-884bb960a959" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="-1" minSelections="0" type="unit" categoryId="74a5e1f2-636a-5230-b965-dbb3b4efed2f" points="0.0">
+
+
+-<entries>
+
+
+-<entry name="Automata" id="5bc67d16-90dd-9492-d41b-f5d09df729dd" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="5" minSelections="0" type="unit" categoryId="(No Category)" points="25.0">
+
+
+-<entries>
+
+
+-<entry name="Altair Energy Rifle" id="0ff414a2-3f61-4ca4-63cd-abb7995a69cb" page="0" hidden="false" collective="true" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Altair Energy Rifle" id="3a555a12-4e7f-de9f-8f17-8c771dda8360" page="0" hidden="false" profileTypeId="8789d001-6582-70fc-f96b-07ace9afe782">
+
+
+-<characteristics>
+
+<characteristic name="ER" value="1-24"" characteristicId="ba19b0b0-08c0-7343-876e-b48f7f92e0c6"/>
+
+<characteristic name="LR" value="-" characteristicId="aecb3e00-ed71-cac7-04f4-73a0f8825554"/>
+
+<characteristic name="ER RAD" value="2 BLUE" characteristicId="bd3cb9ee-6552-22a9-8903-6a1eed8895ac"/>
+
+<characteristic name="LR RAD" value="-" characteristicId="2b559c2a-3648-5fe4-f27b-93f86a98ce74"/>
+
+<characteristic name="ER IAD" value="1 BLUE" characteristicId="3886c2a8-617a-7eb8-6317-9672c2afc09d"/>
+
+<characteristic name="LR IAD" value="-" characteristicId="d9fa8499-5035-f1d8-1356-d263560c8a7c"/>
+
+<characteristic name="WARs" value="Energy Weapon, Small Arm" characteristicId="237aa327-44c6-68b0-359b-bac0a6eb2673"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Automata" id="e4a578aa-f66b-90bd-3767-9121bd81b9a4" page="0" hidden="false" profileTypeId="e768e3db-80af-3cea-995e-437c9f8e317b">
+
+
+-<characteristics>
+
+<characteristic name="Type" value="Infantry" characteristicId="31feeca1-3b0d-30fa-a65f-c8e60f6860fa"/>
+
+<characteristic name="Mv" value="5"" characteristicId="2bac851c-6484-a3cb-e0c1-c19b2542fab6"/>
+
+<characteristic name="IR" value="4" characteristicId="3eb329ae-ccae-6674-af6b-d0a9316663c5"/>
+
+<characteristic name="LP" value="1" characteristicId="36a9abaa-8071-3b72-1a62-e7052c2f11bd"/>
+
+<characteristic name="MAD" value="1 BLACK" characteristicId="0321ef1d-9ff7-e3fd-57e7-cb1a6ad7ca72"/>
+
+<characteristic name="MARs" value="Drone" characteristicId="a0693fde-b42f-0609-397b-074ee2ae9f9c"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+
+-<entry name="Gun Rotor Drone" id="47cb3ed5-38dd-d5e5-b34c-9d31326620e1" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="3" minSelections="0" type="unit" categoryId="(No Category)" points="40.0">
+
+<entries/>
+
+
+-<entryGroups>
+
+
+-<entryGroup name="Weapon" id="db5bdab6-4837-5940-cb8d-e6e33a74516a" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1">
+
+
+-<entries>
+
+
+-<entry name="Proxima Energy Blaster" id="6cd38967-cabd-eb44-a2ae-a9e8b3eee011" page="0" hidden="false" collective="true" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="0" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Proxima Energy Blaster" id="87cf48f8-14c3-863f-c37c-dfa175e23d84" page="0" hidden="false" profileTypeId="8789d001-6582-70fc-f96b-07ace9afe782">
+
+
+-<characteristics>
+
+<characteristic name="ER" value="1-20"" characteristicId="ba19b0b0-08c0-7343-876e-b48f7f92e0c6"/>
+
+<characteristic name="LR" value="-" characteristicId="aecb3e00-ed71-cac7-04f4-73a0f8825554"/>
+
+<characteristic name="ER RAD" value="4 BLUE" characteristicId="bd3cb9ee-6552-22a9-8903-6a1eed8895ac"/>
+
+<characteristic name="LR RAD" value="-" characteristicId="2b559c2a-3648-5fe4-f27b-93f86a98ce74"/>
+
+<characteristic name="ER IAD" value="1 BLUE" characteristicId="3886c2a8-617a-7eb8-6317-9672c2afc09d"/>
+
+<characteristic name="LR IAD" value="-" characteristicId="d9fa8499-5035-f1d8-1356-d263560c8a7c"/>
+
+<characteristic name="WARs" value="Blast, Energy Weapon, Small Arm" characteristicId="237aa327-44c6-68b0-359b-bac0a6eb2673"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+
+-<entry name="Vega Energy Cannon" id="f1efbe0c-8349-db0d-f13f-c3e4a4e11166" page="0" hidden="false" collective="true" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="0" type="upgrade" categoryId="(No Category)" points="10.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Vega Energy Cannon" id="c169dbda-aa39-a41a-73af-1254f2e80f6c" page="0" hidden="false" profileTypeId="8789d001-6582-70fc-f96b-07ace9afe782">
+
+
+-<characteristics>
+
+<characteristic name="ER" value="1-16"" characteristicId="ba19b0b0-08c0-7343-876e-b48f7f92e0c6"/>
+
+<characteristic name="LR" value="-" characteristicId="aecb3e00-ed71-cac7-04f4-73a0f8825554"/>
+
+<characteristic name="ER RAD" value="2 BLUE" characteristicId="bd3cb9ee-6552-22a9-8903-6a1eed8895ac"/>
+
+<characteristic name="LR RAD" value="-" characteristicId="2b559c2a-3648-5fe4-f27b-93f86a98ce74"/>
+
+<characteristic name="ER IAD" value="6 BLUE" characteristicId="3886c2a8-617a-7eb8-6317-9672c2afc09d"/>
+
+<characteristic name="LR IAD" value="-" characteristicId="d9fa8499-5035-f1d8-1356-d263560c8a7c"/>
+
+<characteristic name="WARs" value="Armour Piercing(1), Energy Weapon" characteristicId="237aa327-44c6-68b0-359b-bac0a6eb2673"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+<modifiers/>
+
+<links/>
+
+</entryGroup>
+
+</entryGroups>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Gun Rotor Drone" id="0f7db6fb-7bab-9841-7a0d-d55fff7cdeef" page="0" hidden="false" profileTypeId="e768e3db-80af-3cea-995e-437c9f8e317b">
+
+
+-<characteristics>
+
+<characteristic name="Type" value="Infantry" characteristicId="31feeca1-3b0d-30fa-a65f-c8e60f6860fa"/>
+
+<characteristic name="Mv" value="8"" characteristicId="2bac851c-6484-a3cb-e0c1-c19b2542fab6"/>
+
+<characteristic name="IR" value="5" characteristicId="3eb329ae-ccae-6674-af6b-d0a9316663c5"/>
+
+<characteristic name="LP" value="2" characteristicId="36a9abaa-8071-3b72-1a62-e7052c2f11bd"/>
+
+<characteristic name="MAD" value="1 BLACK" characteristicId="0321ef1d-9ff7-e3fd-57e7-cb1a6ad7ca72"/>
+
+<characteristic name="MARs" value="Drone, Skimming" characteristicId="a0693fde-b42f-0609-397b-074ee2ae9f9c"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+
+-<entry name="Drone Controller" id="366b3bc1-ef1f-ef8e-fe2e-b6a174400515" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="3" minSelections="1" type="unit" categoryId="(No Category)" points="50.0">
+
+
+-<entries>
+
+
+-<entry name="Sirius Energy Pistol" id="2b0785f5-b63d-5a5e-3bca-a4a1e6cec1bc" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Sirius Energy Pistol" id="a5083200-732d-caab-8340-24c7f531f7bc" page="0" hidden="false" profileTypeId="8789d001-6582-70fc-f96b-07ace9afe782">
+
+
+-<characteristics>
+
+<characteristic name="ER" value="0-8"" characteristicId="ba19b0b0-08c0-7343-876e-b48f7f92e0c6"/>
+
+<characteristic name="LR" value="-" characteristicId="aecb3e00-ed71-cac7-04f4-73a0f8825554"/>
+
+<characteristic name="ER RAD" value="3 BLUE" characteristicId="bd3cb9ee-6552-22a9-8903-6a1eed8895ac"/>
+
+<characteristic name="LR RAD" value="-" characteristicId="2b559c2a-3648-5fe4-f27b-93f86a98ce74"/>
+
+<characteristic name="ER IAD" value="1 BLUE" characteristicId="3886c2a8-617a-7eb8-6317-9672c2afc09d"/>
+
+<characteristic name="LR IAD" value="-" characteristicId="d9fa8499-5035-f1d8-1356-d263560c8a7c"/>
+
+<characteristic name="WARs" value="CQB Weapon, Energy Weapon, Small Arm" characteristicId="237aa327-44c6-68b0-359b-bac0a6eb2673"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Drone Controller" id="0efd6fe1-26aa-a08f-1538-ef1b10c895b0" page="0" hidden="false" profileTypeId="e768e3db-80af-3cea-995e-437c9f8e317b">
+
+
+-<characteristics>
+
+<characteristic name="Type" value="Infantry" characteristicId="31feeca1-3b0d-30fa-a65f-c8e60f6860fa"/>
+
+<characteristic name="Mv" value="7"" characteristicId="2bac851c-6484-a3cb-e0c1-c19b2542fab6"/>
+
+<characteristic name="IR" value="4" characteristicId="3eb329ae-ccae-6674-af6b-d0a9316663c5"/>
+
+<characteristic name="LP" value="2" characteristicId="36a9abaa-8071-3b72-1a62-e7052c2f11bd"/>
+
+<characteristic name="MAD" value="3 BLUE" characteristicId="0321ef1d-9ff7-e3fd-57e7-cb1a6ad7ca72"/>
+
+<characteristic name="MARs" value="Steadfast, Drone Controller" characteristicId="a0693fde-b42f-0609-397b-074ee2ae9f9c"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+
+-<entry name="Support Rotor Drone" id="9d6878a2-c5c4-c42a-8444-a5e61fba2da1" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="0" type="unit" categoryId="(No Category)" points="25.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Support Rotor Drone" id="f92ab74a-ba1d-1386-d1c6-03d5ed0c02b5" page="0" hidden="false" profileTypeId="e768e3db-80af-3cea-995e-437c9f8e317b">
+
+
+-<characteristics>
+
+<characteristic name="Type" value="Infantry" characteristicId="31feeca1-3b0d-30fa-a65f-c8e60f6860fa"/>
+
+<characteristic name="Mv" value="8"" characteristicId="2bac851c-6484-a3cb-e0c1-c19b2542fab6"/>
+
+<characteristic name="IR" value="5" characteristicId="3eb329ae-ccae-6674-af6b-d0a9316663c5"/>
+
+<characteristic name="LP" value="2" characteristicId="36a9abaa-8071-3b72-1a62-e7052c2f11bd"/>
+
+<characteristic name="MAD" value="1 BLACK" characteristicId="0321ef1d-9ff7-e3fd-57e7-cb1a6ad7ca72"/>
+
+<characteristic name="MARs" value="Drone, Skimming, Drone Engineer(6+)" characteristicId="a0693fde-b42f-0609-397b-074ee2ae9f9c"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+<profiles/>
+
+<links/>
+
+</entry>
+
+
+-<entry name="Infantry Officer" id="dcbc0dc7-2874-9145-897a-0b68007cfd6d" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="-1" minSelections="0" type="unit" categoryId="0baa64cc-e868-23f3-9b04-d0542751e419" points="0.0">
+
+
+-<entries>
+
+
+-<entry name="Infantry Officer" id="60bcc3f4-3a3b-46cf-a4ac-59d41966b2b7" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1" type="upgrade" categoryId="(No Category)" points="75.0">
+
+<entries/>
+
+
+-<entryGroups>
+
+
+-<entryGroup name="Weapon" id="122508f6-e383-7364-7cfe-5bdf0e9c19ab" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1">
+
+
+-<entries>
+
+
+-<entry name="Sirius Energy Pistol" id="0d932873-c48e-e353-7dbb-56e2d4120358" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="0" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Sirius Energy Pistol" id="ac2c2ead-3bda-4e0b-9caa-6e35c300eda7" page="0" hidden="false" profileTypeId="8789d001-6582-70fc-f96b-07ace9afe782">
+
+
+-<characteristics>
+
+<characteristic name="ER" value="0-8"" characteristicId="ba19b0b0-08c0-7343-876e-b48f7f92e0c6"/>
+
+<characteristic name="LR" value="-" characteristicId="aecb3e00-ed71-cac7-04f4-73a0f8825554"/>
+
+<characteristic name="ER RAD" value="3 BLUE" characteristicId="bd3cb9ee-6552-22a9-8903-6a1eed8895ac"/>
+
+<characteristic name="LR RAD" value="-" characteristicId="2b559c2a-3648-5fe4-f27b-93f86a98ce74"/>
+
+<characteristic name="ER IAD" value="1 BLUE" characteristicId="3886c2a8-617a-7eb8-6317-9672c2afc09d"/>
+
+<characteristic name="LR IAD" value="-" characteristicId="d9fa8499-5035-f1d8-1356-d263560c8a7c"/>
+
+<characteristic name="WARs" value="CQB Weapon, Energy Weapon, Small Arm" characteristicId="237aa327-44c6-68b0-359b-bac0a6eb2673"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+
+-<entry name="Proxima Energy Blaster" id="655d9069-7668-40ce-ae4f-3deafe6b4ac0" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="0" type="upgrade" categoryId="(No Category)" points="10.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Proxima Energy Blaster" id="41e7b8cf-e883-0834-83ee-293b3b214786" page="0" hidden="false" profileTypeId="8789d001-6582-70fc-f96b-07ace9afe782">
+
+
+-<characteristics>
+
+<characteristic name="ER" value="1-20"" characteristicId="ba19b0b0-08c0-7343-876e-b48f7f92e0c6"/>
+
+<characteristic name="LR" value="-" characteristicId="aecb3e00-ed71-cac7-04f4-73a0f8825554"/>
+
+<characteristic name="ER RAD" value="4 BLUE" characteristicId="bd3cb9ee-6552-22a9-8903-6a1eed8895ac"/>
+
+<characteristic name="LR RAD" value="-" characteristicId="2b559c2a-3648-5fe4-f27b-93f86a98ce74"/>
+
+<characteristic name="ER IAD" value="1 BLUE" characteristicId="3886c2a8-617a-7eb8-6317-9672c2afc09d"/>
+
+<characteristic name="LR IAD" value="-" characteristicId="d9fa8499-5035-f1d8-1356-d263560c8a7c"/>
+
+<characteristic name="WARs" value="Blast, Energy Weapon, Small Arm" characteristicId="237aa327-44c6-68b0-359b-bac0a6eb2673"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+<modifiers/>
+
+<links/>
+
+</entryGroup>
+
+
+-<entryGroup name="Command Level" id="dd9f5d1e-4df6-a729-30a8-7bd15a7ff7fa" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1">
+
+
+-<entries>
+
+
+-<entry name="1 2nd Lieutenant" id="a5118efb-7994-b8f2-5ee7-dc94e577ad04" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="0" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+
+-<rules>
+
+
+-<rule name="1 2nd Lieutenant" id="32b21acc-c9a0-6d9f-6a61-dd8745566d65" hidden="false">
+
+<description>CP - 4 Command Range 4" Experience Level Regular</description>
+
+<modifiers/>
+
+</rule>
+
+</rules>
+
+<profiles/>
+
+<links/>
+
+</entry>
+
+
+-<entry name="2 1st Lieutenant" id="51ba28e9-5c40-13e1-0c3f-678ce02089d6" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="0" type="upgrade" categoryId="(No Category)" points="25.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+
+-<rules>
+
+
+-<rule name="2 1st Lieutenant" id="f9b9cd3b-f9a9-c845-7de7-e3455dfa3981" hidden="false">
+
+<description>CP - 5 Command Range 6" Experience Level Regular</description>
+
+<modifiers/>
+
+</rule>
+
+</rules>
+
+<profiles/>
+
+<links/>
+
+</entry>
+
+
+-<entry name="3 Captain" id="d71a6bcf-5b48-496d-c8c6-d6e9eb94fb7b" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="0" type="upgrade" categoryId="(No Category)" points="75.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+
+-<rules>
+
+
+-<rule name="3 Captain" id="e0ae7278-4fed-714a-c31c-7920f9933d42" hidden="false">
+
+<description>CP - 6 Command Range 6" Experience Level Veteran</description>
+
+<modifiers/>
+
+</rule>
+
+</rules>
+
+<profiles/>
+
+<links/>
+
+</entry>
+
+
+-<entry name="4 Major" id="7a37e763-3cf1-d355-39c4-b8ddf8f8c630" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="0" type="upgrade" categoryId="(No Category)" points="100.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+
+-<rules>
+
+
+-<rule name="4 Major" id="a3f54cb3-7c68-ffce-c6fd-3a36949067fc" hidden="false">
+
+<description>CP - 8 Command Range 8" Experience Level Veteran</description>
+
+<modifiers/>
+
+</rule>
+
+</rules>
+
+<profiles/>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+<modifiers/>
+
+<links/>
+
+</entryGroup>
+
+</entryGroups>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Infantry Officer" id="8476f811-a075-08b7-7b61-3e5b4c008961" page="0" hidden="false" profileTypeId="e768e3db-80af-3cea-995e-437c9f8e317b">
+
+
+-<characteristics>
+
+<characteristic name="Type" value="Infantry - Officer" characteristicId="31feeca1-3b0d-30fa-a65f-c8e60f6860fa"/>
+
+<characteristic name="Mv" value="7"" characteristicId="2bac851c-6484-a3cb-e0c1-c19b2542fab6"/>
+
+<characteristic name="IR" value="4" characteristicId="3eb329ae-ccae-6674-af6b-d0a9316663c5"/>
+
+<characteristic name="LP" value="2" characteristicId="36a9abaa-8071-3b72-1a62-e7052c2f11bd"/>
+
+<characteristic name="MAD" value="3 BLUE" characteristicId="0321ef1d-9ff7-e3fd-57e7-cb1a6ad7ca72"/>
+
+<characteristic name="MARs" value="-" characteristicId="a0693fde-b42f-0609-397b-074ee2ae9f9c"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+
+-<links>
+
+
+-<link id="3850d43c-93a3-212c-b8c0-a3630d15ac48" linkType="entry" targetId="519fd144-0f34-92c8-e412-30d73f1aea74">
+
+<modifiers/>
+
+</link>
+
+</links>
+
+</entry>
+
+
+-<entry name="Commando Section" id="a65b7e9a-26af-160a-a309-5e57c65e03da" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="-1" minSelections="0" type="unit" categoryId="c3ad262a-edcb-13c7-0883-bbea6d8cd67e" points="0.0">
+
+
+-<entries>
+
+
+-<entry name="Commando" id="fb9075b8-9f61-9ad2-3785-54b024b826f9" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="5" minSelections="0" type="unit" categoryId="(No Category)" points="40.0">
+
+
+-<entries>
+
+
+-<entry name="Vulkan Carbine" id="4033782f-76d7-3030-ac51-72c6a4064ee3" page="0" hidden="false" collective="true" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Vulkan Carbine" id="c9afcd20-6b53-00f2-bd8f-fd91b86cfc67" page="0" hidden="false" profileTypeId="8789d001-6582-70fc-f96b-07ace9afe782">
+
+
+-<characteristics>
+
+<characteristic name="ER" value="1-16"" characteristicId="ba19b0b0-08c0-7343-876e-b48f7f92e0c6"/>
+
+<characteristic name="LR" value="17-24"" characteristicId="aecb3e00-ed71-cac7-04f4-73a0f8825554"/>
+
+<characteristic name="ER RAD" value="2 RED" characteristicId="bd3cb9ee-6552-22a9-8903-6a1eed8895ac"/>
+
+<characteristic name="LR RAD" value="1 BLUE" characteristicId="2b559c2a-3648-5fe4-f27b-93f86a98ce74"/>
+
+<characteristic name="ER IAD" value="1 BLUE" characteristicId="3886c2a8-617a-7eb8-6317-9672c2afc09d"/>
+
+<characteristic name="LR IAD" value="-" characteristicId="d9fa8499-5035-f1d8-1356-d263560c8a7c"/>
+
+<characteristic name="WARs" value="Small Arm" characteristicId="237aa327-44c6-68b0-359b-bac0a6eb2673"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+
+-<modifiers>
+
+
+-<modifier type="decrement" value="1.0" incrementValue="1.0" incrementField="selections" incrementChildId="3870d95f-1622-6e7a-8e20-d0d7529e6ad1" incrementParentId="dcbc0dc7-2874-9145-897a-0b68007cfd6d" numRepeats="1" repeat="true" field="minSelections">
+
+<conditions/>
+
+<conditionGroups/>
+
+</modifier>
+
+
+-<modifier type="increment" value="10.0" incrementValue="1.0" incrementField="selections" incrementChildId="no child" incrementParentId="roster" numRepeats="1" repeat="false" field="points">
+
+<conditions/>
+
+
+-<conditionGroups>
+
+
+-<conditionGroup type="or">
+
+
+-<conditions>
+
+<condition type="equal to" value="1.0" field="selections" childId="d71a6bcf-5b48-496d-c8c6-d6e9eb94fb7b" parentId="dcbc0dc7-2874-9145-897a-0b68007cfd6d"/>
+
+<condition type="equal to" value="1.0" field="selections" childId="7a37e763-3cf1-d355-39c4-b8ddf8f8c630" parentId="dcbc0dc7-2874-9145-897a-0b68007cfd6d"/>
+
+</conditions>
+
+<conditionGroups/>
+
+</conditionGroup>
+
+</conditionGroups>
+
+</modifier>
+
+
+-<modifier type="decrement" value="1.0" incrementValue="1.0" incrementField="selections" incrementChildId="3870d95f-1622-6e7a-8e20-d0d7529e6ad1" incrementParentId="dcbc0dc7-2874-9145-897a-0b68007cfd6d" numRepeats="1" repeat="true" field="maxSelections">
+
+<conditions/>
+
+<conditionGroups/>
+
+</modifier>
+
+</modifiers>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Commando" id="7ed8ebbd-a72c-a2af-aea5-1c2128193332" page="0" hidden="false" profileTypeId="e768e3db-80af-3cea-995e-437c9f8e317b">
+
+
+-<characteristics>
+
+<characteristic name="Type" value="Infantry" characteristicId="31feeca1-3b0d-30fa-a65f-c8e60f6860fa"/>
+
+<characteristic name="Mv" value="7"" characteristicId="2bac851c-6484-a3cb-e0c1-c19b2542fab6"/>
+
+<characteristic name="IR" value="4" characteristicId="3eb329ae-ccae-6674-af6b-d0a9316663c5"/>
+
+<characteristic name="LP" value="1" characteristicId="36a9abaa-8071-3b72-1a62-e7052c2f11bd"/>
+
+<characteristic name="MAD" value="3 BLUE" characteristicId="0321ef1d-9ff7-e3fd-57e7-cb1a6ad7ca72"/>
+
+<characteristic name="MARs" value="Flashbangs, Tank Mines, Steadfast, 1 Drone Relay" characteristicId="a0693fde-b42f-0609-397b-074ee2ae9f9c"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+
+-<entry name="Commando Specialist" id="3870d95f-1622-6e7a-8e20-d0d7529e6ad1" page="0" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="0" type="unit" categoryId="(No Category)" points="45.0">
+
+
+-<entries>
+
+
+-<entry name="Proxima Energy Blaster" id="a552fe6a-9ccb-8810-d513-87e61604d1f7" page="0" hidden="false" collective="true" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Proxima Energy Blaster" id="438ff9b4-713f-4b15-94ff-7163789f17eb" page="0" hidden="false" profileTypeId="8789d001-6582-70fc-f96b-07ace9afe782">
+
+
+-<characteristics>
+
+<characteristic name="ER" value="1-20"" characteristicId="ba19b0b0-08c0-7343-876e-b48f7f92e0c6"/>
+
+<characteristic name="LR" value="-" characteristicId="aecb3e00-ed71-cac7-04f4-73a0f8825554"/>
+
+<characteristic name="ER RAD" value="4 BLUE" characteristicId="bd3cb9ee-6552-22a9-8903-6a1eed8895ac"/>
+
+<characteristic name="LR RAD" value="-" characteristicId="2b559c2a-3648-5fe4-f27b-93f86a98ce74"/>
+
+<characteristic name="ER IAD" value="1 BLUE" characteristicId="3886c2a8-617a-7eb8-6317-9672c2afc09d"/>
+
+<characteristic name="LR IAD" value="-" characteristicId="d9fa8499-5035-f1d8-1356-d263560c8a7c"/>
+
+<characteristic name="WARs" value="Blast, Energy Weapon, Small Arm" characteristicId="237aa327-44c6-68b0-359b-bac0a6eb2673"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+
+-<modifiers>
+
+
+-<modifier type="increment" value="10.0" incrementValue="1.0" incrementField="selections" incrementChildId="no child" incrementParentId="roster" numRepeats="1" repeat="false" field="points">
+
+<conditions/>
+
+
+-<conditionGroups>
+
+
+-<conditionGroup type="or">
+
+
+-<conditions>
+
+<condition type="equal to" value="1.0" field="selections" childId="d71a6bcf-5b48-496d-c8c6-d6e9eb94fb7b" parentId="dcbc0dc7-2874-9145-897a-0b68007cfd6d"/>
+
+<condition type="equal to" value="1.0" field="selections" childId="7a37e763-3cf1-d355-39c4-b8ddf8f8c630" parentId="dcbc0dc7-2874-9145-897a-0b68007cfd6d"/>
+
+</conditions>
+
+<conditionGroups/>
+
+</conditionGroup>
+
+</conditionGroups>
+
+</modifier>
+
+</modifiers>
+
+<rules/>
+
+
+-<profiles>
+
+
+-<profile name="Commando Specialist" id="434472a7-2c36-0a01-cdc7-3e8f056a7525" page="0" hidden="false" profileTypeId="e768e3db-80af-3cea-995e-437c9f8e317b">
+
+
+-<characteristics>
+
+<characteristic name="Type" value="Infantry" characteristicId="31feeca1-3b0d-30fa-a65f-c8e60f6860fa"/>
+
+<characteristic name="Mv" value="7"" characteristicId="2bac851c-6484-a3cb-e0c1-c19b2542fab6"/>
+
+<characteristic name="IR" value="4" characteristicId="3eb329ae-ccae-6674-af6b-d0a9316663c5"/>
+
+<characteristic name="LP" value="1" characteristicId="36a9abaa-8071-3b72-1a62-e7052c2f11bd"/>
+
+<characteristic name="MAD" value="3 BLUE" characteristicId="0321ef1d-9ff7-e3fd-57e7-cb1a6ad7ca72"/>
+
+<characteristic name="MARs" value="Flashbangs, Tank Mines, Steadfast, Drone Relay" characteristicId="a0693fde-b42f-0609-397b-074ee2ae9f9c"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</profiles>
+
+<links/>
+
+</entry>
+
+</entries>
+
+
+-<entryGroups>
+
+
+-<entryGroup name="Section Type" id="3087636c-8f15-47a6-74cc-3cace1838118" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1">
+
+
+-<entries>
+
+
+-<entry name="Combat" id="d3df63b6-486b-c4df-583e-8e0fe288b7ce" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="-1" minInRoster="0" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="1" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+<profiles/>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+<modifiers/>
+
+<links/>
+
+</entryGroup>
+
+</entryGroups>
+
+<modifiers/>
+
+<rules/>
+
+<profiles/>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+<profiles/>
+
+<links/>
+
+</entry>
+
+</entries>
+
+<rules/>
+
+<links/>
+
+
+-<sharedEntries>
+
+
+-<entry name="Platoon Leader" id="519fd144-0f34-92c8-e412-30d73f1aea74" hidden="false" collective="false" maxPoints="-1.0" minPoints="0.0" maxInRoster="1" minInRoster="1" maxInForce="-1" minInForce="0" maxSelections="1" minSelections="0" type="upgrade" categoryId="(No Category)" points="0.0">
+
+<entries/>
+
+<entryGroups/>
+
+<modifiers/>
+
+<rules/>
+
+<profiles/>
+
+<links/>
+
+</entry>
+
+</sharedEntries>
+
+<sharedEntryGroups/>
+
+<sharedRules/>
+
+
+-<sharedProfiles>
+
+
+-<profile name="Commando" id="3ae9ab4a-0754-0e84-f88c-df508899e99a" page="0" hidden="false" profileTypeId="e768e3db-80af-3cea-995e-437c9f8e317b">
+
+
+-<characteristics>
+
+<characteristic name="Type" value="Infantry" characteristicId="31feeca1-3b0d-30fa-a65f-c8e60f6860fa"/>
+
+<characteristic name="Mv" value="7"" characteristicId="2bac851c-6484-a3cb-e0c1-c19b2542fab6"/>
+
+<characteristic name="IR" value="4" characteristicId="3eb329ae-ccae-6674-af6b-d0a9316663c5"/>
+
+<characteristic name="LP" value="1" characteristicId="36a9abaa-8071-3b72-1a62-e7052c2f11bd"/>
+
+<characteristic name="MAD" value="3 BLUE" characteristicId="0321ef1d-9ff7-e3fd-57e7-cb1a6ad7ca72"/>
+
+<characteristic name="MARs" value="Flashbangs, Tank Mines, Steadfast, 1 Drone Relay" characteristicId="a0693fde-b42f-0609-397b-074ee2ae9f9c"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+
+-<profile name="Vulkan Carbine" id="4788ede4-b01e-3683-f204-05ec4fc3c0ad" page="0" hidden="false" profileTypeId="8789d001-6582-70fc-f96b-07ace9afe782">
+
+
+-<characteristics>
+
+<characteristic name="ER" value="1-16"" characteristicId="ba19b0b0-08c0-7343-876e-b48f7f92e0c6"/>
+
+<characteristic name="LR" value="17-24"" characteristicId="aecb3e00-ed71-cac7-04f4-73a0f8825554"/>
+
+<characteristic name="ER RAD" value="2 RED" characteristicId="bd3cb9ee-6552-22a9-8903-6a1eed8895ac"/>
+
+<characteristic name="LR RAD" value="1 BLUE" characteristicId="2b559c2a-3648-5fe4-f27b-93f86a98ce74"/>
+
+<characteristic name="ER IAD" value="1 BLUE" characteristicId="3886c2a8-617a-7eb8-6317-9672c2afc09d"/>
+
+<characteristic name="LR IAD" value="-" characteristicId="d9fa8499-5035-f1d8-1356-d263560c8a7c"/>
+
+<characteristic name="WARs" value="Small Arm" characteristicId="237aa327-44c6-68b0-359b-bac0a6eb2673"/>
+
+</characteristics>
+
+<modifiers/>
+
+</profile>
+
+</sharedProfiles>
+
+</catalogue>
